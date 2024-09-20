@@ -1,5 +1,7 @@
 # super-beta-wiki
-Allow for the creation of a super v4.0.0-beta wiki without breaking the production super v3.0 wiki.
+Allow for the creation of a super beta wiki without breaking the production super wiki.
+
+### 2024/09/19 - Clone of `super` v4.0.3.
 
 ### 2023/10/18 - Updates for `super` v4.0.0-beta5.
 
