@@ -1,6 +1,8 @@
 # super-beta-wiki
 Allow for the creation of a super beta wiki without breaking the production super wiki.
 
+### 2026/10/17 - Initial clone of existing `super` v5.1.0 wiki.
+
 ### 2025/10/08 - First rough draft of the `super` v5.1.0 wiki.
 
 ### 2025/07/10 - Initial clone of existing `super` v5.0.0 wiki.
